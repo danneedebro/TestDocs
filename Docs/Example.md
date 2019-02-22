@@ -8,8 +8,7 @@
 <tr>
 <th>Type</th><th>Unique ID</th><th>Length</th><th>Dx</th><th>Area</th><th>Vertical Angle</th><th>Azimuthal Angle</th><th>K+</th><th>K-</th><th>Name</th><th>Drawing</th><th>Force number</th><th></th><th></th><th></th><th></th><th>Roughness</th><th></th><th></th><th></th><th>Volume flags</th><th>Junction flags</th>
 </tr>
-    <tr>
-        <td>Pipe</td>
-   	<td>Pipe component</td>
-    </tr>
+<tr>
+<th>Pipe</th><th>{string}</th><th>{float}</th><th>{float}</th><th>{float}</th><th>{float}</th><th>{float}</th><th>{float}</th><th>{float}</th><th>optional {string}</th><th>optional {string}</th><th>optional {int}</th><th>{empty}</th><th>{empty}</th><th>{empty}</th><th>{empty}</th><th>{float}</th><th>{empty}</th><th>{empty}</th><th>{empty}</th><th>optional {binary string}</th><th>optional {binary string}</th>
+</tr>
 </table>
